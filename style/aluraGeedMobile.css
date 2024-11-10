@@ -1,0 +1,131 @@
+@media (max-width: 780px) {
+   
+    * {
+        box-sizing: border-box;
+        margin: 0px;
+        padding: 0px;
+
+    }
+
+    body{
+        width: 100vw;
+    }
+    .header{
+        padding: 0px;
+        width: 100%;
+    }
+    
+
+    .main{
+        display: flex;
+        justify-content: center;
+        padding: 0px;
+        margin: 0px;
+        width: 100%;
+    }
+    .main__container{
+        flex-direction: column-reverse;
+        align-items: center;
+        justify-content: center;
+        padding: 0px;
+     }
+
+     /*formulario*/
+    .main__container__form{
+       width: 100%;
+       padding: 0px;
+    }
+    .form__title{
+        padding: 30px 0px;
+    }
+
+    .form__item{
+        padding: 0px;
+    }
+    .form_item_form{
+        width: 390px;
+        margin: 0px;    
+        padding: 0px;
+    }
+    .form_item_form input{
+        width: 90%;
+    }
+   
+    .form__item__buttons{
+       width: 100%;
+        /* border: solid 1px rgb(25, 157, 219); */
+        padding: 10px;
+    }
+
+    .form__item__buttons button{
+        width: 100%;
+        /* border: solid 1px rgb(25, 157, 219); */
+    }
+
+    .main__container__products{
+        
+        width: 100%;
+
+    }
+    .produtos__item{
+        width: 100%;
+       padding: 0px;
+       box-sizing: border-box;
+    }
+
+   .product__title{
+       width: 100%;
+       padding-bottom: 20px ;
+   }
+    .item__card__info{
+        width: 100%;
+        padding: 0px;
+    }
+    .item__card__price{
+        width: 100%;
+        padding: 0px;
+    }
+
+    /*Footer*/
+
+    .footer{
+        padding: 0px;
+        width: 100%;
+        height: 200px;
+    }
+    .footer__logo{
+      align-items: center;
+      justify-content: center;
+       width: 100%;
+       height: 100px;
+       gap: 0px;
+       padding: 10px;
+       /* border: solid 5px rgb(12, 80, 112);    */
+    }
+    .footer__logo p{
+        width: 43%;
+        /* border: solid 1px rgb(25, 157, 219);    */
+        box-sizing: border-box ; 
+        font-size: 25px;
+        justify-content:start;
+    }
+
+    .footer__logo_heart{
+        width: 57%;
+        justify-content:end;
+        gap: 3px;
+
+        
+        /* border: solid 1px rgb(25, 157, 219);    */
+    }
+
+    .footer__logo__img{          
+        width: 50px;
+    }
+    
+   
+    
+
+    
+  }
+  
