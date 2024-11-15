@@ -1,4 +1,5 @@
-@media (max-width: 720px) {
+
+@media (max-width:1300px){
    
     * {
         box-sizing: border-box;
@@ -63,16 +64,14 @@
     }
 
     .main__container__products{
-        justify-content: center;
-        align-items: center;
+        
         width: 100%;
 
     }
     .produtos__item{
-        width: 70%;
+        width: 100%;
        padding: 0px;
        box-sizing: border-box;
-       /* border:solid 5px rgb(98, 173, 201); */
     }
 
    .product__title{
@@ -90,6 +89,7 @@
     border: 3px solid #000000;
     position: relative;
 }
+
 
     .item__card__info{
         width: 100%;
@@ -142,6 +142,3 @@
 
     
   }
-  
-
-  

@@ -1,0 +1,16 @@
+{
+  "produtos": [
+    {
+      "imagem": "https://cdn.awsli.com.br/2500x2500/53/53761/produto/287371141/1-hcffjko48n.png",
+      "name": "atary station",
+      "price": "2000,00",
+      "id": 9
+    }
+  ],
+  "usuario": [
+    {
+      "id": 1,
+      "nome": "jairo"
+    }
+  ]
+}

@@ -1,5 +1,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Anton&family=Archivo+Black&family=IBM+Plex+Mono:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;1,100;1,200;1,300;1,400;1,500;1,600;1,700&family=Oswald:wght@200..700&family=Press+Start+2P&display=swap');
 
+
+
+
 /* _________________Header_________________*/
 .header {
     width: 100%;
@@ -23,7 +26,6 @@
     width: 374px;
     height: 56px;
     gap: 0px;
-    opacity: 0px;
     box-sizing: border-box;
 
 }
@@ -92,6 +94,7 @@
     flex-wrap: wrap;
     box-sizing: border-box;
     gap: 10px;
+    flex:1 1 48%
 }
 
 .item__card {
@@ -112,7 +115,6 @@
     height: 174px;
     border-radius: 5px ;
     border: 3px solid #000000;
-    opacity: 0px;
 }
 
 .item__card__info {
@@ -152,6 +154,23 @@
     text-align: left;
 
     padding: 1px;
+}
+
+.btn__lixeira{
+    border:none;
+    background-color: transparent;
+    cursor: pointer;
+    
+}
+
+.btn__lixeira:active{ 
+    /* ao acrescentar o :active toda vez que hover o click de uma botão no elemento 
+    que tem a class btn__lixeira ele ira execultar a nimação*/
+    transform: scale(0.8); 
+}
+
+.btnblack{
+    background-color: #000000;
 }
 
 
@@ -199,6 +218,7 @@
     height: 58px;
     gap: 0px;
     border-radius: 30px;
+    padding-left:30px;
     /* border: solid 3px rgb(25, 157, 219); */
 
 
@@ -267,7 +287,6 @@
     width: 374px;
     height: 56px;
     gap: 0px;
-    opacity: 0px;
 
 }
 
@@ -277,7 +296,6 @@
     width: 236px;
     height: 51px;
     gap: 5px;
-    opacity: 0px;
     box-sizing: border-box;
 }
 
@@ -291,7 +309,6 @@
     top: 3px;
     left: 138px;
     gap: 0px;
-    opacity: 0px;
 
     font-family: Press Start 2P;
     font-size: 30px;
@@ -310,7 +327,6 @@
     width: 138px;
     height: 56px;
     gap: 0px;
-    opacity: 0px;
     box-sizing: border-box;
 
 
@@ -323,7 +339,6 @@
     width: 269px;
     height: 48px;
     gap: 10px;
-    opacity: 0px;
     color: white;
 
     font-family: IBM Plex Mono;
@@ -335,3 +350,12 @@
     text-decoration-skip-ink: none;
 
 }
+
+
+
+
+
+
+  
+
+  

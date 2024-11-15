@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="./style/reset.css">
+    <link rel="stylesheet" href="./style/aluraGeek.css">
+    <link rel="stylesheet" href="./style/aluraGeekTablet.css">
+    <link rel="stylesheet" href="./style/aluraGeedMobile.css">
+
+   
+    
+   
+</head>
+
+<body>
+
+    <header class="header">
+        <img class="header__img" src="./img/heart_logo_header.png" />
+    </header>
+
+    <main class="main">
+        <div class="main__container">
+            <section class="main__container__products">
+                <h1 class="product__title"> MEUS PRODUTOS:  </h1>
+
+                <div class="produtos__item" data-product>
+                    
+                    
+                    <!--Atraves do javaScript iremos construir os cards para exibição dos produtos
+                    a logica para a construção dos cards esta no arquivo buscarProdutos.js 
+                    e a função responsavel por construir os cards é acard_prod()-->
+
+
+                  
+
+                </div>
+            </section>
+            <section class="main__container__form">
+                <h1 class="form__title"> ADICIONAR PRODUTO: </h1>
+                <div class="form__item">
+                    <form id="form" class="form_item_form"  data-form>
+                        <input type="text" placeholder="   URL da imagem do produto..." data-img>
+                        <input type="text" placeholder="   Nome do produto..." data-name>
+                        <input type="text" placeholder="   Preço do produto..." data-price>
+                        
+                        <div class="form__item__buttons">
+                            <button type="submit">Guardar</button>
+                            <button type="submit">Limpar</button>
+                        </div>
+                    </form>
+                    
+                    
+                </div>
+               
+            </section>
+
+        </div>
+    </main>
+
+    <footer class="footer">
+        <div class="footer__logo">
+            <div class="footer__logo_heart">
+                <img class="footer__logo__img" src="./img/heart.png" />
+                <img class="footer__logo__img" src="./img/heart.png" />
+                <img class="footer__logo__img" src="./img/heart.png" />
+
+            </div>
+            <p>AluraGeek</p>
+        </div>
+        <div class="footer__development__by">
+            <h3>Desenvolvido por Jairo Rocha</h3>
+            <h3>ALURA LATAM-2024</h3>
+        </div>
+
+    </footer>
+
+    
+  
+   
+
+    
+    <!-- <script  type="module" src="./api/conectApi.js" defer></script> -->
+    <script  type="module" src="./js/api/buscarProdutos.js" defer></script>
+    <script  type="module" src="./js/api/enviarProduto.js" defer></script>
+    <script  type="module" src="./js/api/deleteProduto.js" defer></script>
+
+</body>
+
+</html>
