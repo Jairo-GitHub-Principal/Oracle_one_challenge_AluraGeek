@@ -54,18 +54,18 @@ O projeto está concluido comforme o que foi pedido na atividade, com todas as f
   - Lado esquerdo: Lista de produtos em cards organizados em linhas e colunas.  
   - Lado direito: Formulário para adicionar produtos.  
 - Footer ao final da página.
-- ![Capa do Projeto](link display desktop)
+- ![Capa do Projeto](https://github.com/Jairo-GitHub-Principal/Oracle_one_challenge_AluraGeek/blob/master/img/desktop2.jpg?raw=true)
 
 
 **Tablet:**  
 - O formulário é reposicionado acima da lista de produtos, liberando mais espaço horizontal para os cards.  
 - A exibição de colunas aumenta dinamicamente de acordo com o espaço disponível.
-- - ![Capa do Projeto](link display tablet)
+- - ![Capa do Projeto](https://github.com/Jairo-GitHub-Principal/Oracle_one_challenge_AluraGeek/blob/master/img/tablete.jpg?raw=true)
 
 **mobile:**  
 - O formulário é reposicionado acima da lista de produtos, liberando mais espaço horizontal para os cards.  
 - A exibição de colunas aumenta dinamicamente de acordo com o espaço disponível.
-- - ![Capa do Projeto](link display mobile)
+- - ![Capa do Projeto](https://github.com/Jairo-GitHub-Principal/Oracle_one_challenge_AluraGeek/blob/master/img/mobile.jpg?raw=true)
 
 ---
 
