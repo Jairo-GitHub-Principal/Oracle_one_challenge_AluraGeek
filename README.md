@@ -69,6 +69,9 @@ O projeto está concluido comforme o que foi pedido na atividade, com todas as f
 
 ---
 
+#### Acesse a pagina do projeto hospedado no vercel
+##### https://oracle-one-challenge-alura-geek.vercel.app/
+
 ## **Desenvolvido por Jairo Cesar Santos Rocha**
 ## **Acesso ao Projeto**  
 ### **Clone o repositório:**  
