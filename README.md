@@ -1,6 +1,7 @@
 # **Oracle One**
 # **Challenge Alura Geek**
-![Capa do Projeto](link-para-sua-imagem-de-capa-aqui)
+#** **
+![Capa do Projeto](https://github.com/Jairo-GitHub-Principal/Oracle_one_challenge_AluraGeek/blob/master/img/desktop.jpg?raw=true)
 
 ---
 
