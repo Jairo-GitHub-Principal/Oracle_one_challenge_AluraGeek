@@ -1,10 +1,9 @@
 # **Oracle One**
 # **Challenge Alura Geek**
-#** **
 ![Capa do Projeto](https://github.com/Jairo-GitHub-Principal/Oracle_one_challenge_AluraGeek/blob/master/img/desktop.jpg?raw=true)
 
 ---
-
+## **Badges**  
 ![Status do Projeto](https://img.shields.io/badge/status-Concluido-orange)
 
 ![Tecnologias](https://img.shields.io/badge/tecnologias-HTML%20CSS%20JavaScript-blue)  
