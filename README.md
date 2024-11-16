@@ -48,7 +48,7 @@ O projeto está concluido comforme o que foi pedido na atividade, com todas as f
 2. **Cadastrar Produtos:** Adição de novos itens através de um formulário dinâmico.  
 3. **Remover Produtos:** Exclusão de produtos diretamente na interface.
 
-### **Demonstração (Desktop e Tablet)**  
+### **Demonstração (Desktop, Tablet e mobile)**  
 **Desktop:**  
 - Layout dividido em duas colunas:  
   - Lado esquerdo: Lista de produtos em cards organizados em linhas e colunas.  
