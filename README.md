@@ -5,7 +5,6 @@
 
 ---
 
-## **Badges**  
 ![Status do Projeto](https://img.shields.io/badge/status-Concluido-orange)
 
 ![Tecnologias](https://img.shields.io/badge/tecnologias-HTML%20CSS%20JavaScript-blue)  
